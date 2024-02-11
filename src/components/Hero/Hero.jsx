@@ -86,7 +86,7 @@ const Hero = () => {
                     </h1>
                     <div>
                       <Button
-                        text="Shop Now"
+                        text="Shop By Category "
                         bgColor="bg-primary"
                         text-Color="text-white"
                       />
